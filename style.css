@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.Parenttop{
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    gap: 70px;
+    list-style-type: none;
+    margin-top: 10px;
+}
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+.iconloc{
+    margin-left: -40px;
+}
+.inpak{
+    padding: 10px 60px;
+    border: 1px solid gray;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.secin{
+    padding-left: 60px;
+    padding-right: 500px;
+    /* border: 1px solid gray; */
+    margin-top: 10px;
+    
+}
+.inp{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid gray;
+    padding-left: 60px;
+
+
+
+}
+
+.navparent{
+    display: flex;
+    /* margin-top: 10px; */
+}
+.parentdiv{
+    display: flex;
+    margin-left: 100px;
+    list-style-type: none;
+    gap: 50px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.top{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.mobile{
+    font-size: x-large;
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.parentmobile{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 30px;
+}
+.car{
+    font-size: x-large;
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.parentcar{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 30px;
+}
+.parentbike{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 30px;
+}
+.parenthouse{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin-top: 30px;
+}
+.paly{
+    margin-top: 50px;
+}
+
+
+.lastlist{
+    display: flex;
+    justify-content: space-around;
+    /* gap:200px; */
+    list-style-type: none;
+    /* margin-top: 10px; */
+    background-color:#EBEEEF;
+    width: 100%;
+    height: 150px;
+    align-items: center;
+    /* list-style-type: none; */
+}
+.lastlist li{
+    list-style-type: none;
+}
+
+.last{
+    background-color: #002F34;
+    height:50px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.paar1{
+    color: white;
+    margin-right: 50px;
+}
